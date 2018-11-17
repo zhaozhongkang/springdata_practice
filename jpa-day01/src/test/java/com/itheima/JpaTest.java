@@ -104,7 +104,7 @@ public class JpaTest {
     }
 
     /**
-     *
+     *查询
      */
     @Test
     public  void testReference() {
